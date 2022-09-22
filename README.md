@@ -1,5 +1,12 @@
-# Event_Camera_in_Top_Conference
-Event camera (DVS, Spike) based Papers Published on Top International Conference
+<div align="center">
+
+<img src="https://github.com/Event-AHU/Event_Camera_in_Top_Conference/blob/main/figures/event_example.jpg" width="600"> 
+
+**Event camera (DVS, Spike) based Papers Published on Top International Conference**
+
+------
+</div>
+
 
 
 
