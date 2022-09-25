@@ -18,9 +18,11 @@
 
 **Event Camera**: 
 
-* **DVS346**: [[]()] 
+* **DVS346**: 
+[[Homepage](https://inivation.gitlab.io/dv/dv-docs/)] 
+[[Youtube](https://www.youtube.com/channel/UCvhrqenP0piKVT8ORViGobw/videos)]
 
-* **CeleX**: [[]()] 
+* **CeleX**: [[Youtube](https://www.youtube.com/watch?v=kzUHip3DAd0)] 
 
 * **PROPHESEE**: 
 [[Homepage](https://www.prophesee.ai/event-based-sensor-packaged/)] 
