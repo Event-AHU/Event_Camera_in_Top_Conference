@@ -36,6 +36,25 @@
 * Gallego G, Delbrück T, Orchard G, et al. **Event-based vision: A survey**[J]. IEEE transactions on pattern analysis and machine intelligence, 2020, 44(1): 154-180. [[Paper](https://ieeexplore.ieee.org/abstract/document/9138762/)]
 
 ### ECCV 2022 
+
+* **Event-Based Fusion for Motion Deblurring with Cross-modal Attention**, Lei Sun1,2, Christos Sakaridis2, Jingyun Liang2, Qi Jiang1, Kailun Yang3, PengSun1, Yaozu Ye1, Kaiwei Wang1, and Luc Van Gool
+
+* **Boosting Event Stream Super-Resolution with A Recurrent Neural Network**, Wenming Weng (University of Science and Technology of China)*; Yueyi Zhang (University of Science and Technology of China); Zhiwei Xiong (University of Science and Technology of China)
+
+
+* **Secrets of Event-Based Optical Flow**, Shintaro Shiba, Yoshimitsu Aoki, Guillermo Gallego 
+[[Paper](https://arxiv.org/pdf/2207.10022.pdf)] 
+[[Code](https://github.com/tub-rip/event_based_optical_flow)]
+
+
+* **DVS-Voltmeter: Stochastic Process-based Event Simulator for Dynamic Vision Sensors**	SongNan Lin (Nanyang Technological University)*; Ye Ma (McGill University); Zhenhua Guo (Aliababa Group); Bihan Wen (Nanyang Technological University) 
+[[Paper]()] 
+[[Code](https://github.com/Lynn0306/DVS-Voltmeter)]
+
+
+* **Data Association between Event Streams and Intensity Frames under Diverse Baselines**, Dehao Zhang Qiankun Ding Peiqi Duan Chu Zhou Boxin Shi 
+[[Paper](https://ci.idm.pku.edu.cn/Zhang_ECCV22e.pdf)] 
+
 * "**Spike Transformer: Monocular Depth Estimation for Spiking Camera**". Jiyuan Zhang*, Lulu Tang*, Zhaofei Yu , Jiwen Lu and Tiejun Huang, European Conference on Computer Vision (ECCV) 2022.
 [[Paper]()] 
 [[Code](https://github.com/Leozhangjiyuan/MDE-SpikingCamera)]
