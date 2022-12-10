@@ -50,6 +50,10 @@
 [[Paper](https://arxiv.org/pdf/2209.15425.pdf)] 
 [[Code](https://github.com/ZK-Zhou/spikformer)]
 
+* Wang, Xiao and Wu, Zongzhen and Jiang, Bo and Bao, Zhimin and Zhu, Lin and Li, Guoqi and Wang, Yaowei and Tian, Yonghong. "**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors.**" arXiv preprint arXiv:2211.09648 (2022). 
+[[Paper](https://arxiv.org/abs/2211.09648)] 
+[[Code](https://github.com/Event-AHU/HARDVS)]
+
 
 
 
@@ -67,7 +71,7 @@
 
 
 * **DVS-Voltmeter: Stochastic Process-based Event Simulator for Dynamic Vision Sensors**	SongNan Lin (Nanyang Technological University)*; Ye Ma (McGill University); Zhenhua Guo (Aliababa Group); Bihan Wen (Nanyang Technological University) 
-[[Paper]()] 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf)] 
 [[Code](https://github.com/Lynn0306/DVS-Voltmeter)]
 
 
