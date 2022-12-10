@@ -54,6 +54,10 @@
 [[Paper](https://arxiv.org/abs/2211.09648)] 
 [[Code](https://github.com/Event-AHU/HARDVS)]
 
+* **Event-based Monocular Dense Depth Estimation with Recurrent Transformers**, Xu Liu Jianing Li Xiaopeng Fan Yonghong Tian, 
+[[Paper](https://arxiv.org/pdf/2212.02791.pdf)] 
+
+
 
 
 
