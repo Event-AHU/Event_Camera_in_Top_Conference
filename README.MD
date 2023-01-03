@@ -59,7 +59,12 @@
 
 
 
+### WACV 2023 
+* Huang, Ze, et al. "**EventPoint: Self-Supervised Interest Point Detection and Description for Event-Based Camera.**" Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023. 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Huang_EventPoint_Self-Supervised_Interest_Point_Detection_and_Description_for_Event-Based_Camera_WACV_2023_paper.pdf)] 
 
+* Bajestani, Seyed Ehsan Marjani, and Giovanni Beltrame. "**Event-Based RGB Sensing With Structured Light.**" Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023. 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Bajestani_Event-Based_RGB_Sensing_With_Structured_Light_WACV_2023_paper.pdf)]
 
 
 ### ECCV 2022 
