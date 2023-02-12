@@ -72,6 +72,10 @@
 
 ### ECCV 2022 
 
+* **Neuromorphic Data Augmentation for Training Spiking Neural Networks**, Yuhang Li, 
+[[Paper](https://arxiv.org/pdf/2203.06145.pdf)] 
+[[Code](https://github.com/Intelligent-Computing-Lab-Yale/NDA_SNN)] 
+
 * **Event-Based Fusion for Motion Deblurring with Cross-modal Attention**, Lei Sun1,2, Christos Sakaridis2, Jingyun Liang2, Qi Jiang1, Kailun Yang3, PengSun1, Yaozu Ye1, Kaiwei Wang1, and Luc Van Gool
 
 * **Boosting Event Stream Super-Resolution with A Recurrent Neural Network**, Wenming Weng (University of Science and Technology of China)*; Yueyi Zhang (University of Science and Technology of China); Zhiwei Xiong (University of Science and Technology of China)
