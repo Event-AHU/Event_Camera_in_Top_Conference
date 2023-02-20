@@ -42,6 +42,10 @@
 * Huang T J, Yu Z F, Li Y, Shi B X, Xiong R Q, Ma L and Wang W. 2022. **Advances in spike vision**. Journal of Image and Graphics, 27(06):1823-1839(黄铁军,余肇飞,李源,施柏鑫,熊瑞勤,马雷,王威. 2022. **脉冲视觉研究进展**. 中国图象图形学报,27(06):1823- 1839) [DOI:10. 11834 / jig. 220175] 
 [[Paper](http://www.cjig.cn/jig/ch/reader/create_pdf.aspx?file_no=20220606&flag=1&year_id=2022&quarter_id=6)] 
 
+* **Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks**, Xu Zheng∗, Yexin Liu∗, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang, 
+[[Paper](https://arxiv.org/pdf/2302.08890.pdf)] 
+[[GitHub](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
+
 
 
 ### arXiv Pre-print 
