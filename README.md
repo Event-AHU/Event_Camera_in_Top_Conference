@@ -65,6 +65,22 @@
 
 
 
+### CVPR 2023 
+
+* **EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**, Viktor Rudnev · Mohamed Elgharib · Christian Theobalt · Vladislav Golyanik
+
+* **Adaptive Global Decay Process for Event Cameras**, Urbano Nunes · Ryad Benosman · Sio-Hoi Ieng
+
+* **Learning Event Guided High Dynamic Range Video Reconstruction**, Yixin Yang · Jin Han · Jinxiu Liang · Zhihang Zhong · Boxin Shi 
+
+* Data-driven Feature Tracking for Event Cameras, Nico Messikommer* Carter Fang∗ Mathias Gehrig Davide Scaramuzza 
+[[Paper](https://arxiv.org/pdf/2211.12826.pdf)] 
+[[Code](https://github.com/uzh-rpg/deep_ev_tracker)]
+
+* **Recurrent Vision Transformers for Object Detection with Event Cameras**, Mathias Gehrig and Davide Scaramuzza 
+[[Paper](https://arxiv.org/pdf/2212.05598.pdf)] 
+[[Code](https://github.com/uzh-rpg/RVT)]
+
 
 ### WACV 2023 
 * Huang, Ze, et al. "**EventPoint: Self-Supervised Interest Point Detection and Description for Event-Based Camera.**" Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023. 
