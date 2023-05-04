@@ -50,6 +50,9 @@
 
 ### arXiv Pre-print 
 
+* **From Chaos Comes Order: Ordering Event Representations for Object Detection**, Nikola Zubic, Daniel Gehrig, Mathias Gehrig Davide Scaramuzza, 
+[[Paper](https://arxiv.org/pdf/2304.13455.pdf)]
+
 * **Spikformer: When Spiking Neural Network Meets Transformer**, Zhaokun Zhou, Yuesheng Zhu, Chao He, Yaowei Wang, Shuicheng Yan, Yonghong Tian, Li Yuan
 [[Paper](https://arxiv.org/pdf/2209.15425.pdf)] 
 [[Code](https://github.com/ZK-Zhou/spikformer)]
