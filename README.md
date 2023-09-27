@@ -71,8 +71,35 @@
 
 ### ICCV 2023 
 
-* 
+* **Event Camera Data Pre-training**， Yan Yang, Liyuan Pan, Liu Liu
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Event_Camera_Data_Pre-training_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/Yan98/Event-Camera-Data-Pre-training)]
 
+* **Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events** , Hoonhee Cho, Hyeonseong Kim, Yujeong Chae, Kuk-Jin Yoon
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Label-Free_Event-based_Object_Recognition_via_Joint_Learning_with_Image_Reconstruction_ICCV_2023_paper.pdf)]
+
+* **RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**, Zhexiong Wan, Yuxin Mao, Jing Zhang, Yuchao Dai
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_RPEFlow_Multimodal_Fusion_of_RGB-PointCloud-Event_for_Joint_Optical_Flow_and_ICCV_2023_paper.pdf)]
+[[Code](https://npucvr.github.io/RPEFlow)]
+
+* **GET: Group Event Transformer for Event-Based Vision**, Yansong Peng, Yueyi Zhang, Zhiwei Xiong, Xiaoyan Sun, Feng Wu
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_GET_Group_Event_Transformer_for_Event-Based_Vision_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/Peterande/GET-Group-Event-Transformer)]
+
+* **Person Re-Identification without Identification via Event anonymization**, Shafiq Ahmad, Pietro Morerio, Alessio Del Bue
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ahmad_Person_Re-Identification_without_Identification_via_Event_anonymization_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/IIT-PAVIS/ReId_without_Id)]
+
+* **Efficient Converted Spiking Neural Network for 3D and 2D Classification**, Yuxiang Lan, Yachao Zhang, Xu Ma, Yanyun Qu, Yun Fu
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lan_Efficient_Converted_Spiking_Neural_Network_for_3D_and_2D_Classification_ICCV_2023_paper.pdf)]
+
+* **Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**, Qingyan Meng, Mingqing Xiao, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Meng_Towards_Memory-_and_Time-Efficient_Backpropagation_for_Training_Spiking_Neural_Networks_ICCV_2023_paper.pdf)] 
+[[Code](https://github.com/qymeng94/SLTT)] 
+
+* **Masked Spiking Transformer**, Ziqing Wang, Yuetong Fang, Jiahang Cao, Qiang Zhang, Zhongrui Wang, Renjing Xu 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)] 
+[[Code](https://github.com/bic-L/Masked-Spiking-Transformer)] 
 
 
 
