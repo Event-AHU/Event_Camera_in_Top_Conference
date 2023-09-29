@@ -69,6 +69,11 @@
 
 
 
+### BMVC 2023 
+* **Highly Efficient SNNs for High-speed Object Detection**, [[Paper](https://arxiv.org/pdf/2309.15883.pdf)]
+
+* 
+
 ### ICCV 2023 
 
 * **Event Camera Data Pre-training**， Yan Yang, Liyuan Pan, Liu Liu
