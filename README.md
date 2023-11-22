@@ -66,6 +66,8 @@
 
 * **Event-Based Frame Interpolation with Ad-hoc Deblurring**, Lei Sun1,2 Christos Sakaridis2, Jingyun Liang2 Peng Sun1, Jiezhang Cao2 Kai Zhang2, Qi Jiang1 Kaiwei Wang1 Luc Van Gool2,3 [[Paper](https://arxiv.org/pdf/2301.05191.pdf)]
 
+* **Event Camera Data Dense Pre-training**, Yan Yang [[Paper](https://arxiv.org/pdf/2311.11533.pdf)] 
+
 
 
 
