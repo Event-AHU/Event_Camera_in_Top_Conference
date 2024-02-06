@@ -50,6 +50,11 @@
 
 ### arXiv Pre-print 
 
+
+* **Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**, Changze Lv 1 Yansen Wang 2 Dongqi Han 2 Xiaoqing Zheng 1 Xuanjing Huang 1 Dongsheng Li
+  [[Paper](https://arxiv.org/pdf/2402.01533.pdf)]
+  
+
 * **ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data**, Carmen Martin-Turrero * 1 Maxence Bouvier * 1 Manuel Breitenstein 1 Pietro Zanuttigh 2 Vincent Parret 1 
   [[Paper](https://arxiv.org/pdf/2402.01393.pdf)]
 
