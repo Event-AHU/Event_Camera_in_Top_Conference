@@ -50,6 +50,9 @@
 
 ### arXiv Pre-print 
 
+* **ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data**, Carmen Martin-Turrero * 1 Maxence Bouvier * 1 Manuel Breitenstein 1 Pietro Zanuttigh 2 Vincent Parret 1 
+  [[Paper](https://arxiv.org/pdf/2402.01393.pdf)]
+
 * **From Chaos Comes Order: Ordering Event Representations for Object Detection**, Nikola Zubic, Daniel Gehrig, Mathias Gehrig Davide Scaramuzza, 
 [[Paper](https://arxiv.org/pdf/2304.13455.pdf)]
 
