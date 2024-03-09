@@ -50,7 +50,6 @@
 
 ### arXiv Pre-print 
 
-
 * [Pre-train] **Data-efficient Event Camera Pre-training via Disentangled Masked Modeling**, Zhenpeng Huang, Chao Li, Hao Chen, Yongjian Deng, Yifeng Geng, Limin Wang,
   [[Paper](https://arxiv.org/abs/2403.00416)]
 
@@ -83,6 +82,12 @@
 
 
 ### CVPR 2024 
+
+* **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.**
+  Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang (2023). arXiv preprint arXiv:2309.14611. 
+[[Paper](https://arxiv.org/abs/2309.14611)]
+[[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+[[DemoVideo](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz)] 
 
 * **LEOD: Label-Efficient Object Detection for Event Cameras**, Ziyi Wu, Mathias Gehrig, Qing Lyu, Xudong Liu, Igor Gilitschenski, CVPR'24
   [[Paper](https://arxiv.org/abs/2311.17286)]
