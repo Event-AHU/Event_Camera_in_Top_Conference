@@ -81,6 +81,15 @@
 
 
 
+
+### CVPR 2024 
+
+* **LEOD: Label-Efficient Object Detection for Event Cameras**, Ziyi Wu, Mathias Gehrig, Qing Lyu, Xudong Liu, Igor Gilitschenski, CVPR'24
+  [[Paper](https://arxiv.org/abs/2311.17286)]
+  [[Code](https://github.com/Wuziyi616/LEOD)]
+
+
+
 ### AAAI 2024 
 
 
