@@ -97,6 +97,15 @@
 
 ### AAAI 2024 
 
+* Deng, Yongjian, Hao Chen, and Youfu Li. "**A Dynamic GCN with Cross-Representation Distillation for Event-Based Learning.**"
+  Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 2. 2024.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27914/27850)]
+
+* Zhao, Han, et al. "**Dynamic Reactive Spiking Graph Neural Network.**"
+  Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 15. 2024.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29640/31086)]
+
+  
 
 ### ICLR 2024 
 
