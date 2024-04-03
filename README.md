@@ -50,6 +50,13 @@
 
 ### arXiv Pre-print 
 
+
+
+* **EventSleep: Sleep Activity Recognition with Event Cameras**,
+  Carlos Plou, Nerea Gallego, Alberto Sabater, Eduardo Montijano, Pablo Urcola, Luis Montesano, Ruben Martinez-Cantin, Ana C. Murillo
+  [[Paper](https://arxiv.org/abs/2404.01801)]
+  [[Dataset](https://www.synapse.org/#!Synapse:syn54156328/files/)] 
+  
 * [Pre-train] **Data-efficient Event Camera Pre-training via Disentangled Masked Modeling**, Zhenpeng Huang, Chao Li, Hao Chen, Yongjian Deng, Yifeng Geng, Limin Wang,
   [[Paper](https://arxiv.org/abs/2403.00416)]
 
