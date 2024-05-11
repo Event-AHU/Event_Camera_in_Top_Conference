@@ -386,7 +386,9 @@
 
 
 
-
+## Video Tutorials 
+* [[**ACACES 2023: Neuromorphic computing: from theory to applications, Lecture 1 – Yulia Sandamirskaya**](https://youtu.be/2XX8KLMyQN4?si=7X92DSP29n3OJ4Kz)]
+* [[Youtube (HiPEAC TV)](https://www.youtube.com/@HiPEAC)]
 
 
 
