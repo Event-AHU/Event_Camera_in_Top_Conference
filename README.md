@@ -46,6 +46,11 @@
 [[Paper](https://arxiv.org/pdf/2302.08890.pdf)] 
 [[GitHub](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
 
+* **"Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods."** Zhou, Chenlin, et al.
+  arXiv preprint arXiv:2405.04289 (2024). 
+  [[Paper](https://arxiv.org/abs/2405.04289)]
+  [[Code](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)] 
+
 
 
 ### arXiv Pre-print 
