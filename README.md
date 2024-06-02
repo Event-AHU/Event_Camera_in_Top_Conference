@@ -52,10 +52,12 @@
   [[Code](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)] 
 
 
+### Nature & Science 
+* Gehrig, D., Scaramuzza, D. **Low-latency automotive vision with event cameras.** Nature 629, 1034–1040 (2024). https://doi.org/10.1038/s41586-024-07409-w
+  [[Paper](https://www.nature.com/articles/s41586-024-07409-w)] 
+
 
 ### arXiv Pre-print 
-
-
 
 * **EventSleep: Sleep Activity Recognition with Event Cameras**,
   Carlos Plou, Nerea Gallego, Alberto Sabater, Eduardo Montijano, Pablo Urcola, Luis Montesano, Ruben Martinez-Cantin, Ana C. Murillo
