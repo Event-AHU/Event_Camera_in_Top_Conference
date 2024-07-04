@@ -97,6 +97,9 @@
 
 ### CVPR 2024 
 
+* **Generalized Event Cameras**, Varun Sundar, Matthew Dutson, Andrei Ardelean, Claudio Bruschini, Edoardo Charbon, Mohit Gupta
+  [[Paper](https://arxiv.org/abs/2407.02683)] 
+
 * **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.**
   Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang (2023). arXiv preprint arXiv:2309.14611. 
 [[Paper](https://arxiv.org/abs/2309.14611)]
