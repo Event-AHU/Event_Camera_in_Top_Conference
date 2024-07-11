@@ -92,7 +92,11 @@
 * **Event Camera Data Dense Pre-training**, Yan Yang [[Paper](https://arxiv.org/pdf/2311.11533.pdf)] 
 
 
+### ECCV 2024 
 
+* **DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**, Qi Wang, Zhou Xu, Yuming Lin, Jingtao Ye, Hongsheng Li, Guangming Zhu, Syed Afaq Ali Shah, Mohammed Bennamoun, Liang Zhang
+  [[Paper](https://arxiv.org/abs/2407.05106)]
+  [[Code](https://github.com/QiWang233/DailyDVS-200)] 
 
 
 ### CVPR 2024 
