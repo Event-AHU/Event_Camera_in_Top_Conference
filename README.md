@@ -37,6 +37,10 @@
 
 
 ### Survey Papers 
+  
+* [arXiv:2409.17680] **Event-based Stereo Depth Estimation: A Survey**, Suman Ghosh, Guillermo Gallego
+  [[Paper](https://arxiv.org/abs/2409.17680)] 
+
 * Gallego G, Delbrück T, Orchard G, et al. **Event-based vision: A survey**[J]. IEEE transactions on pattern analysis and machine intelligence, 2020, 44(1): 154-180. [[Paper](https://ieeexplore.ieee.org/abstract/document/9138762/)] 
 
 * Huang T J, Yu Z F, Li Y, Shi B X, Xiong R Q, Ma L and Wang W. 2022. **Advances in spike vision**. Journal of Image and Graphics, 27(06):1823-1839(黄铁军,余肇飞,李源,施柏鑫,熊瑞勤,马雷,王威. 2022. **脉冲视觉研究进展**. 中国图象图形学报,27(06):1823- 1839) [DOI:10. 11834 / jig. 220175] 
