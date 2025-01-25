@@ -96,6 +96,82 @@
 * **Event Camera Data Dense Pre-training**, Yan Yang [[Paper](https://arxiv.org/pdf/2311.11533.pdf)] 
 
 
+
+### AAAI 2025 
+
+*  **AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scenes**
+  Chaoran Feng, Wangbo Yu, Xinhua Cheng, Zhenyu Tang, Junwu Zhang, Yonghong Tian, Li Yuan
+
+* **EvHDR-GS: Event-guided HDR Video Reconstruction with 3D Gaussian Splatting**, Zehao Chen,Zhan Lu,De Ma,Huajin Tang,Xudong Jiang,Qian Zheng,Gang Pan
+  
+* **Motion-adaptive Transformer for Event-based Image Deblurring**, Senyan Xu,Zhijing Sun,Mingchen Zhong,Chengzhi Cao,Yidi Liu,Xueyang Fu,Yan Chen
+
+* **SMamba: Sparse Mamba for Event-based Object Detection**, Nan Yang,Yang Wang,Zhanwen Liu,Meng Li,Yisheng An,Xiangmo Zhao
+
+* **Know Where You Are From: Event-Based Segmentation via Spatio-Temporal Propagation** Ke Li,Gengyu Lyu,Hao Chen,Bochen Xie,Zhen Yang,Youfu Li,Yongjian Deng
+  
+*  **DriveGazen: Event-Based Driving Status Recognition using Conventional Camera** Xiaoyin Yang,Xin Yang
+
+*  **Efficient 3D Recognition with Event-driven Spike Sparse Convolution**, Xuerui Qiu,Man Yao,Jieyuan Zhang,Yuhong Chou,Ning Qiao,shibo zhou,Bo XU,Guoqi Li
+
+*  **Deep Representation Learning for Forecasting Recursive and Multi-Relational Events in Temporal Networks** Tony Gracious,Ambedkar Dukkipati
+
+* **Harnessing Event Sensory Data for Error Pattern Prediction in Vehicles: A Language Model Approach**, Hugo Math,Rainer Lienhart,Robin SchÃ¶n
+
+* **EventZoom: A Progressive Approach to Event-Based Data Augmentation for Enhanced Neuromorphic Vision**, Yiting Dong,Xiang He,Guobin Shen,Dongcheng Zhao,Yang Li,Yi Zeng
+
+*  **Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing**.
+    DingYi Zeng,Yuchen Wang,Honglin Cao,Wanlong Liu,Yichen Xiao,ChengzhuoLu,Wenyu Chen,Malu Zhang,Guoqing Wang,Yang Yang
+
+* **EventPillars: Pillar-based Efficient Representations for Event Data**, Rui Fan,Weidong Hao,Juntao Guan,Lai Rui,Lin Gu,Tong Wu,Fanhong Zeng,Zhangming Zhu
+
+* **VidEvent: A Large Dataset for Understanding Dynamic Evolution of Events in Videos**, Baoyu Liang,Qile Su,Shoutai Zhu,Yuchen Liang,Chao Tong
+
+* **DiffDVC: Accurate Event Detection for Dense Video Captioning via Diffusion Models**, Wei Chen,Jianwei Niu,Xuefeng Liu,Zhendong Wang,Shaojie Tang,Guogang Zhu
+
+* **Event-Enhanced Blurry Video Super Resolution**, Dachun Kai,Yueyi Zhang,Jin Wang,Zeyu Xiao,Zhiwei Xiong,Xiaoyan Sun
+
+* **EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events**, Zehao Chen,Zhanfeng Liao,De Ma,Huajin Tang,Qian Zheng,Gang Pan
+
+* **CREST: An Efficient Conjointly trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**,
+  Ruixin Mao,Aoyu Shen,Lin Tang,Jun Zhou
+
+* **Dense Audio-Visual Event Localization under Cross-Modal Consistency and Multi-Temporal Granularity Collaboration**,
+  Ziheng Zhou,Jinxing Zhou,Wei Qian,Shengeng Tang,Xiaojun Chang,Dan Guo
+
+* **UCF-Crime-DVS: A Novel Event Based Dataset for Video Anomaly Detection with Spiking Neural Networks,**
+  Yuanbin Qian,Shuhan Ye,Chong Wang,XiaoJie Cai,Jiangbo Qian,Jiafei Wu
+
+*  **Exploring Temporal Event Cues for Dense Video Captioning in Cyclic Co-learning**
+    ZhuyangXie,Yan Yang,YankaiYu,Jie Wang,Yongquan Jiang,Xiao Wu
+
+* **ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance**.
+  Yucheng Zhao,Gengyu Lyu,Ke Li,Zihao Wang,Hao Chen,Zhen Yang,Yongjian Deng
+
+* **Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**,
+  Hebei Li,Yansong Peng,Jiahui Yuan,Peixi Wu,Jin Wang,Yueyi Zhang,Xiaoyan Sun
+
+* **Adversarial Attacks on Event-Based Pedestrian Detectors: A Physical Approach**,
+  Guixu Lin,Muyao Niu,Qingtian Zhu,Zhengwei Yin,Zhuoxiao Li,Shengfeng He,Yinqiang Zheng
+
+* **Asymmetric Hierarchical Difference aware Interaction Network for Event guided Motion Deblurring**,
+  Wen Yang,Jinjian Wu,Leida Li,Weisheng Dong,Guangming Shi
+
+* **MTGA: Multi-view Temporal Granularity aligned Aggregation for Event-based Lip reading**,
+  Wenhao Zhang,Jun Wang,Yong Luo,Lei YU,Wei Yu,Zheng He,Jialie Shen
+
+* **EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction**,
+  Chengjie Ge,Xueyang Fu,Peng He,Kunyu Wang,Chengzhi Cao,Zheng-Jun Zha
+
+* **EvSTVSR: Event Guided Space-Time Video Super-Resolution**,
+  Haojie Yan,Zhan Lu,Zehao Chen,De Ma,Huajin Tang,Qian Zheng,Gang Pan
+
+* **Event2Tracking: Reconstructing Multi-Agent Soccer Trajectories using Long Term Multimodal Context**,
+  Harry Hughes,Michael Horton,Xinyu Wei,Harshala Gammulle,Clinton Fookes,Sridha Sridharan,Patrick Joseph Lucey
+
+
+
+
 ### ECCV 2024 
 
 * **DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**, Qi Wang, Zhou Xu, Yuming Lin, Jingtao Ye, Hongsheng Li, Guangming Zhu, Syed Afaq Ali Shah, Mohammed Bennamoun, Liang Zhang
