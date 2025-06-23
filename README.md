@@ -105,6 +105,9 @@
 
 ### ICML 2025 
 
+* **Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**, Qi Xu, Jie Deng, Jiangrong Shen, Biwu Chen, Huajin Tang, Gang Pan
+  [[Paper](https://openreview.net/forum?id=WZKcJZWG3P)]
+
 * **A Chaotic Dynamics Framework Inspired by Dorsal Stream for Event Signal Processing**, Yu Chen, Jing Lian, Zhaofei Yu, Jizhao Liu, Jisheng Dang, Gang Wang
   [[Paper](https://openreview.net/forum?id=vCtyqomphj)]
   [[Code](https://github.com/chenyu0193/ACDF)]
