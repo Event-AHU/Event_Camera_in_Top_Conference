@@ -97,6 +97,24 @@
 
 
 
+* **---**, --
+  [[Paper]()]
+  [[Code]()]
+
+
+
+### ICML 2025 
+
+* **A Chaotic Dynamics Framework Inspired by Dorsal Stream for Event Signal Processing**, Yu Chen, Jing Lian, Zhaofei Yu, Jizhao Liu, Jisheng Dang, Gang Wang
+  [[Paper](https://openreview.net/forum?id=vCtyqomphj)]
+  [[Code](https://github.com/chenyu0193/ACDF)]
+
+
+
+### CVPR 2025 
+
+
+
 ### AAAI 2025 
 
 *  **AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scenes**
