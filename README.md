@@ -37,6 +37,10 @@
 
 
 ### Survey Papers 
+
+
+* Chakravarthi, Bharatesh, et al. "**Recent event camera innovations: A survey**." European Conference on Computer Vision. Springer, Cham, 2025.
+  [[Paper](https://arxiv.org/pdf/2408.13627)]
   
 * [arXiv:2409.17680] **Event-based Stereo Depth Estimation: A Survey**, Suman Ghosh, Guillermo Gallego
   [[Paper](https://arxiv.org/abs/2409.17680)] 
